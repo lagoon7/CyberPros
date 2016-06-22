@@ -1,0 +1,9 @@
+http://feeds.feedburner.com/Snort?format=xml
+#http://static.nvd.nist.gov/feeds/xml/cve/nvdcve-2.0-modified.xml
+#http://static.nvd.nist.gov/feeds/xml/cve/nvdcve-2.0-recent.xml
+http://nvd.nist.gov/download/nvd-rss.xml
+http://nvd.nist.gov/download/nvd-rss-analyzed.xml
+http://www.exploit-db.com/rss.xml
+http://blog.osvdb.org/feed/
+#http://osvdb.org/feed/vulnerabilities/latest.rss
+#http://www.exploit-db.com/feed/
